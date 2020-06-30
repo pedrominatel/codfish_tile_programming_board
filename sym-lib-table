@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name lapa_gateway_motherboard-rescue)(type Legacy)(uri /home/minatel/lapa/projects/lapagateway-board/kicad/lapa_gateway_motherboard/lapa_gateway_motherboard-rescue.lib)(options "")(descr ""))
+)
